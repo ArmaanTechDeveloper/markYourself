@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  width: 100vw; 
+  height: 100vh;
+}
+#add-new-todo{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#new-todo{
+  outline: none;
+  border: 2px solid black;
+  width: 50%;
+}
